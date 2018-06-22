@@ -1,0 +1,7 @@
+spring-boot-gradle/out
+spring-boot-gradle/out/
+spring-boot-maven/target/
+spring-boot-maven/.idea/
+spring-boot-gradle/.idea/
+spring-boot-gradle/.gradle/
+spring-boot-gradle/build/
